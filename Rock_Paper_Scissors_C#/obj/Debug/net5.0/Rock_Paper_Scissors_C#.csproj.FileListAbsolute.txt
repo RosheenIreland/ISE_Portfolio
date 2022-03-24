@@ -1,0 +1,16 @@
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.csproj.AssemblyReference.cache
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.AssemblyInfoInputs.cache
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.AssemblyInfo.cs
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.csproj.CoreCompileInputs.cache
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/Rock_Paper_Scissors_C#
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/Rock_Paper_Scissors_C#.deps.json
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/Rock_Paper_Scissors_C#.runtimeconfig.json
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/Rock_Paper_Scissors_C#.runtimeconfig.dev.json
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/Rock_Paper_Scissors_C#.dll
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/ref/Rock_Paper_Scissors_C#.dll
+/home/roisin/C#/Rock_Paper_Scissors_C#/bin/Debug/net5.0/Rock_Paper_Scissors_C#.pdb
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.dll
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/ref/Rock_Paper_Scissors_C#.dll
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.pdb
+/home/roisin/C#/Rock_Paper_Scissors_C#/obj/Debug/net5.0/Rock_Paper_Scissors_C#.genruntimeconfig.cache
