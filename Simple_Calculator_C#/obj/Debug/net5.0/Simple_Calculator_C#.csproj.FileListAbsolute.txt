@@ -1,0 +1,16 @@
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.csproj.AssemblyReference.cache
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.AssemblyInfoInputs.cache
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.AssemblyInfo.cs
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.csproj.CoreCompileInputs.cache
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/Simple_Calculator_C#
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/Simple_Calculator_C#.deps.json
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/Simple_Calculator_C#.runtimeconfig.json
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/Simple_Calculator_C#.runtimeconfig.dev.json
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/Simple_Calculator_C#.dll
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/ref/Simple_Calculator_C#.dll
+/home/roisin/C#_Projects/Simple_Calculator_C#/bin/Debug/net5.0/Simple_Calculator_C#.pdb
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.dll
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/ref/Simple_Calculator_C#.dll
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.pdb
+/home/roisin/C#_Projects/Simple_Calculator_C#/obj/Debug/net5.0/Simple_Calculator_C#.genruntimeconfig.cache
