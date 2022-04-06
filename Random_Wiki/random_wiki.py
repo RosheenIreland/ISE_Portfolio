@@ -9,7 +9,7 @@ while True:
      soup = BeautifulSoup(url.content, "html.parser")
      title = soup.find(class_="firstHeading").text
 
-     print(f"{title} \nDo you want to view it? (Y/N)")
+     print(f"{title} \nDo you want to view it? (y/n)")
      ans = input("").lower()
 
      if ans == "y":
