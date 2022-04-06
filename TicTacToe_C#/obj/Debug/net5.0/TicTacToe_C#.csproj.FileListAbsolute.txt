@@ -1,0 +1,16 @@
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.deps.json
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.runtimeconfig.json
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.runtimeconfig.dev.json
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.dll
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/ref/TicTacToe_C#.dll
+/home/roisin/C#_Projects/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.pdb
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.csproj.AssemblyReference.cache
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.AssemblyInfoInputs.cache
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.AssemblyInfo.cs
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.csproj.CoreCompileInputs.cache
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.dll
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/ref/TicTacToe_C#.dll
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.pdb
+/home/roisin/C#_Projects/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.genruntimeconfig.cache
