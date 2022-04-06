@@ -1,3 +1,5 @@
+#Creating snake Game with GUI
+
 import turtle
 import time
 import random
@@ -71,11 +73,11 @@ def move():
         head.sety(y-20)
     
     if head.direction == 'left':
-        y = head.xcor()
+        x = head.xcor()
         head.setx(x-20)
     
     if head.direction == 'right':
-        y = head.xcor()
+        x = head.xcor()
         head.setx(x+20)
 # Assigning keys
 wn.listen()
@@ -109,39 +111,43 @@ while True:
         food.goto(x, y)
     
     # Adding segments 
-    new_segment = turtle.Turtle()
-    new_segment.speed(0)
-    new_segment.shape('square')
-    new_segment.color('orange')
-    new_segment.penup()
-    segments.append(new_segment)
-    delay -= 0.001
-    score += 10
-    if score > high_score:
-        high_score = score
-    pen.clear()
-    pen.write("Score : {} High Score : {}".format(score, high_score), align='center', font=('candara', 24, 'bold'))
+        new_segment = turtle.Turtle()
+        new_segment.speed(0)
+        new_segment.shape('square')
+        new_segment.color('orange')
+        new_segment.penup()
+        segments.append(new_segment)
+        delay -= 0.001
+        score += 10
+        if score > high_score:
+            high_score = score
+        pen.clear()
+        pen.write("Score : {} High Score : {}".format(score, high_score), align='center', font=('candara', 24, 'bold'))
 
 # Checking for head collisions with body segments
-for index in range(len(segments)-1, 0, -1):
-    x = segments[index-1].xcor()
-    y = segments[index-1].ycor()
-    segments[0].goto(x, y)
-move()
-for segment in segments:
-    if segment.distance(head) <20:
-        time.sleep(1)
-        head.goto(0, 0)
-        head.direction = 'Stop'
-        colors = random.choice(['red', 'blue', 'green'])
-        shapes = random.choice(['square', 'circle'])
-        for segment in segments:
-            segment.goto(1000, 1000)
-        segment.clear()
+    for index in range(len(segments)-1, 0, -1):
+        x = segments[index-1].xcor()
+        y = segments[index-1].ycor()
+        segments[0].goto(x, y)
+    if len(segments) > 0:
+        x = head.xcor()
+        y = head.ycor()
+        segments[0].goto(x,y)
+    move()
+    for segment in segments:
+        if segment.distance(head) <20:
+            time.sleep(1)
+            head.goto(0, 0)
+            head.direction = 'stop'
+            colors = random.choice(['red', 'blue', 'green'])
+            shapes = random.choice(['square', 'circle'])
+            for segment in segments:
+                segment.goto(1000, 1000)
+            segment.clear()
         
-        score = 0 
-        delay = 0.1
-        pen.clear()
-        pen.write("Score : {} High Score {} ".format(score, high_score), align='centre', font=('candara', 24, 'bold'))
+            score = 0 
+            delay = 0.1
+            pen.clear()
+            pen.write("Score : {} High Score {} ".format(score, high_score), align='centre', font=('candara', 24, 'bold'))
     time.sleep(delay)
-    wn.mainloop()
+wn.mainloop()
